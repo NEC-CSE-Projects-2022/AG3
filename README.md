@@ -2,13 +2,13 @@
 # Team Number – Project Title
 
 ## Team Info
-- 22471A0530 — **Asritha khajjayam** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A0530 — **Asritha khajjayam** ( [LinkedIn](https://www.linkedin.com/in/asritha-khajjayam-a500322b1?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
 _Work Done: backend_
 
-- 22471A0563 — **Uma Bhavani Bukya** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A0563 — **Uma Bhavani Bukya** ( [LinkedIn](https://www.linkedin.com/in/bhukya-uma-bhavani-8005b1327) )
 _Work Done: documents and all ppts_
 
-- 22471A0568 — **Nandini yendati** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
+- 22471A0568 — **Nandini yendati** ( [LinkedIn](https://www.linkedin.com/in/yendeti-nandini-704b63347) )
 _Work Done: Frontend_
 
 ---
